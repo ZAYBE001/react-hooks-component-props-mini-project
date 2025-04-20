@@ -6,7 +6,7 @@
 - Use props to make components dynamic
 - Transform lists of data into lists of components
 
-## Overview
+## Overview 
 
 Now that you've learned how to work with components in React, it's time to build
 something and put those skills to use! Your goal for this lab is to make a
